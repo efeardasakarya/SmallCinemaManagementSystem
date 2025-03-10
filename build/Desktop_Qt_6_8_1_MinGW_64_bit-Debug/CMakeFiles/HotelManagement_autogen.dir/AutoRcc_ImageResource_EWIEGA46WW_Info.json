@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/HotelManagement_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement",
+	"CMAKE_SOURCE_DIR" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/HotelManagement_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/Images/istockphoto-1494642262-612x612.jpg",
+		"C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/Images/HotelLogo.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/HotelManagement_autogen.dir/AutoRcc_ImageResource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "ImageResource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_ImageResource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/HotelManagement_autogen.dir/AutoRcc_ImageResource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/HP/Desktop/Efe/QT Projelerim/HotelManagement/ImageResource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

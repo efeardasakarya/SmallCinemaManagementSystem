@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/HotelLogo.jpg</file>
+        <file>Images/istockphoto-1494642262-612x612.jpg</file>
+    </qresource>
+</RCC>
